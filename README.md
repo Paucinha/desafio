@@ -36,9 +36,8 @@ As tecnologias utilizadas foram Visual Studio Code onde foi realizado o teste em
 - Java
 - Git Bash
 - Visual Studio Code
-- 
+
 ## Front end
-- 
 - JavaScript
 - Visual Studio Code
 - Eclipse IDE for Java Developers
