@@ -8,11 +8,11 @@ http://capgemini.proway.com.br/
 
 Desafio de Programação realizado pela Academia Java Capgemini, por meio de um programa formação tech sob medida para empresas.
 
-Respondido a três questões e implementadas em testes em Java e JavaScript®.
+Respondido três questões e implementados testes em Java e JavaScript®.
 
 # Tecnologias utilizadas
 
-As tecnologias utilizadas foram Visual Studio Code onde foi realizado o teste em JavaScript e a IDE Eclipse para os teste em Java.
+As tecnologias utilizadas foram Visual Studio Code onde foi realizado o teste para JavaScript e a IDE Eclipse para os testes em Java.
 
 # Desafio de Programação (questões)
 
@@ -74,4 +74,4 @@ Criado programação pela IDE Eclipse for Java Developers e realizado os testes.
 Páucia Lira Nunes Lisboa
 11 98477-8715 - paucia.renan@gmail.com
 
-linkedin.com/in/paucia-lisboa
+linkedin.com/in/paucia-lisboa!
